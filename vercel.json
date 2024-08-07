@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/get-release.js": {
-      "memory": 100,
+      "memory": 128,
       "maxDuration": 10
     }
   }
